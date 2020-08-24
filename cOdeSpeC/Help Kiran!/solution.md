@@ -1,5 +1,5 @@
-##question
-[Question]
+## Question
+![Question](https://raw.githubusercontent.com/Shanawaz444/Coding-Contest-Editorials/master/cOdeSpeC/Help%20Kiran!/help!%20kiran.png)
 This compleate solution is a greedy and bruteforce solution 
 the solution goes like this
 1. initlise the count to zero after scanning or taking the input
@@ -31,8 +31,8 @@ while(b>=1 && c>=2)
 6. finally print count.
 Bingo!
 here if u see carefully your doing the second operation first and first opertion second as mentiond int the 
-Question above
-#solution
+Question above.
+## solution
 ```
 #include <bits/stdc++.h>
     using namespace std;
