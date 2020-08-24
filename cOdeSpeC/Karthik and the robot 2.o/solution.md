@@ -1,5 +1,5 @@
-#Question
-![Question](https://raw.githubusercontent.com/oscvizag/Coding-Contest-Editorials/master/cOdeSpeC/Yummy%20and%20the%20Chocolate%20Factory/yummy%20and%20the%20chocolate%20factory.png)
+## Question
+![Question](https://raw.githubusercontent.com/oscvizag/Coding-Contest-Editorials/master/cOdeSpeC/Karthik%20and%20the%20robot%202.o/Karthik%20and%20the%20robot%202.o.png)
 If we want to pick an element at the i-th position in the list (i.e., A[i]), we need to travel either (1 + i) unit distance (if we start from the left end), or (N - i) unit distance (if we start from the right end). Hence, the shortest distance required to pick the i-th element is min(1 + i, N - i). We can denote this value by Si.
 
 If we want to pick an element whose value is x, then we need to find all occurrences of x in the array A, and take the minimum of S values of the corresponding indices. For example, if we want to find the shortest distance to pick an element with value 10, and the element 10 occurs at three times in array A (A[3], A[5], and A[9]), then the shortest distance to pick 10 would be min(S3, S5, S9).
