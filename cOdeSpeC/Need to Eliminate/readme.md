@@ -1,6 +1,6 @@
 ## Need to Eliminate
 
-![question](./cOdeSpeC/Need to Eliminate/nte1.PNG)
+![question](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Need%20to%20Eliminate/nte1.PNG)
 
 ## hint
 
