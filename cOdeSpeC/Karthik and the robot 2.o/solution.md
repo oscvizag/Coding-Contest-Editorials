@@ -1,4 +1,4 @@
-#Question
+## Question
 ![Question](https://raw.githubusercontent.com/oscvizag/Coding-Contest-Editorials/master/cOdeSpeC/Karthik%20and%20the%20robot%202.o/Karthik%20and%20the%20robot%202.o.png)
 If we want to pick an element at the i-th position in the list (i.e., A[i]), we need to travel either (1 + i) unit distance (if we start from the left end), or (N - i) unit distance (if we start from the right end). Hence, the shortest distance required to pick the i-th element is min(1 + i, N - i). We can denote this value by Si.
 
