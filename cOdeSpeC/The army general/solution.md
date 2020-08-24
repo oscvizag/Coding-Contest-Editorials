@@ -26,9 +26,7 @@ The algorithm solves each test in O(N + M) time complexity.
 
 ## solution
 ```
-#include <cstdio>
-#include <cstdlib>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
 
 #define T_LIMIT 10000
