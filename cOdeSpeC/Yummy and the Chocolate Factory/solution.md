@@ -1,8 +1,8 @@
 Question:-
 
-![Question](cOdeSpeC\Yummy and the Chocolate Factory\yummy and the chocolate factory.png)
+![Question](https://raw.githubusercontent.com/oscvizag/Coding-Contest-Editorials/master/cOdeSpeC/Yummy%20and%20the%20Chocolate%20Factory/yummy%20and%20the%20chocolate%20factory.png)
 
-First download the given [zip](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Yummy%20and%20the%20Chocolate%20Factory/yummy%20and%20the%20chocolate%20factory.png?raw=true)
+
 
 ## explanation
 
