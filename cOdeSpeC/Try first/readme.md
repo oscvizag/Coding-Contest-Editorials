@@ -1,6 +1,6 @@
 Question:-
 
-![Question](cOdeSpeC/Try first/try first.PNG)
+![Question](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Try%20first/try%20first.PNG)
 
 First download the given [zip](https://drive.google.com/file/d/1467D9kGPJmmUrs3Riv_TbAtssyBUS-IU/view?usp=sharing)
 
