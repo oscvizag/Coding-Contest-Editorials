@@ -1,8 +1,7 @@
 # Question
 
-![Question](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Try%20first/try%20first.PNG)
+![Question](https://raw.githubusercontent.com/oscvizag/Coding-Contest-Editorials/master/cOdeSpeC/The%20army%20general/The%20army%20general.png)
 
-First download the given [zip](https://drive.google.com/file/d/1467D9kGPJmmUrs3Riv_TbAtssyBUS-IU/view?usp=sharing)
 
 # Explanation
 ## Special case of M = 1
