@@ -50,7 +50,7 @@ getline(cin,input);			                                        //using getline to
 cout<<"done taking i/p"<<endl;                                      //debugging feature :smile:
 vector<string> result;                                              //I have the string now I have to split
 boost::split(result, input, boost::is_any_of(" "));                 //it where ever I get a space
-cout<<result.size()<<"done spliting i/p"<<endl;                     //debugging feature 
+cout<<result.size()<<"done spliting i/p"<<endl;                     //debugging feature
 
 //the following loop now converts the vector of strings into long long int and inserts into set
 
@@ -89,3 +89,28 @@ the output we get is
 ```
 
 ![analytics](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Try%20first/snip.PNG)
+
+## Approach in Python
+
+It is similar to the CPP approach. The only difference is language syntax.
+Incase of file manipulations and file accessing situations, Python is very cool to use.
+Unlike CPP its not necessary to divide our code into multiple parts.
+The question is not based on logic. All we need to know is, we need to open the files, take the input and then give the sum of elements (only once).
+Our approach is
+File open karo, File read karo, File close karo
+
+```
+overallFileInputs = []
+for i in range(97, 97+6):
+    with open(chr(i), "r") as f:                                #to read the file a,b,c,d,e,f
+        fileInput = f.readline().split()                        #to read the input from file
+        fileInput = list(set(fileInput))                        #by using set() we remove duplicates
+        overallFileInputs.extend(fileInput)                     #extend is used to add the list to another list
+        overallFileInputs = list(set(overallFileInputs))        #again removing the duplicates
+overallFileInputs = list(map(int, overallFileInputs))           #converting all the elements in list from string to integer
+print(sum(overallFileInputs))                                   #gives sum of elements
+```
+
+As said, its all about syntaxes. :smiley:
+
+### Happy Coding
