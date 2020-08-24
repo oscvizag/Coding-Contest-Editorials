@@ -4,7 +4,8 @@
 As our friend  Hipparchus said triangle n theta is the key to everything!Just kidding but u need to know the concept of trigonometry to solve this problem.
 Consider one of the outer circle and an inner circle join lines as shown in the pic
 
-
+## Diagram
+![Diagram](https://github.com/kiransaiabhishek/Coding-Contest-Editorials/blob/master/cOdeSpeC/Circle%20around%20my%20head/ans.png)
 
 where R is outer circle radius and r is inner circle radius
 
