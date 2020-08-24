@@ -43,14 +43,14 @@ now you can take input with cin.
 #include <boost/algorithm/string.hpp>
 using namespace std;
 int main() {
-freopen("final","r",stdin); 		//reading the input
-set<long long>s; 			//made a set to store the numbers
-string input;   			// initilized a string
-getline(cin,input);			//using getline to read the complete line
-cout<<"done taking i/p"<<endl;          //debugging feature :smile:
-vector<string> result;                  //I have the string now I have to split
-boost::split(result, input, boost::is_any_of(" "));    //it where ever I get a space
-cout<<result.size()<<"done spliting i/p"<<endl;        //debugging feature :smile:
+freopen("final","r",stdin); 		                                //reading the input
+set<long long>s; 			                                        //made a set to store the numbers
+string input;   			                                        // initilized a string
+getline(cin,input);			                                        //using getline to read the complete line
+cout<<"done taking i/p"<<endl;                                      //debugging feature :smile:
+vector<string> result;                                              //I have the string now I have to split
+boost::split(result, input, boost::is_any_of(" "));                 //it where ever I get a space
+cout<<result.size()<<"done spliting i/p"<<endl;                     //debugging feature 
 
 //the following loop now converts the vector of strings into long long int and inserts into set
 
@@ -61,6 +61,7 @@ for(int i=0;i<result.size();i++){
    s.insert(x);
 }
 //debugging feature
+
 cout<<"done converting i/p"<<endl;
 //just adding the sum using foreach loop
 long long sum=0;
@@ -86,3 +87,5 @@ the output we get is
 ```
 8 4602454836826033439
 ```
+
+![analytics](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Try%20first/snip.PNG)
