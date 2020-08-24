@@ -4,6 +4,8 @@ Question:-
 
 First download the given [zip](https://drive.google.com/file/d/1467D9kGPJmmUrs3Riv_TbAtssyBUS-IU/view?usp=sharing)
 
+# Approach in CPP
+
 ## Merging multiple files
 
 Then extract them into a folder.Open CMD in that folder and run the following code
@@ -90,7 +92,7 @@ the output we get is
 
 ![analytics](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Try%20first/snip.PNG)
 
-## Approach in Python
+# Approach in Python
 
 It is similar to the CPP approach. The only difference is language syntax.
 Incase of file manipulations and file accessing situations, Python is very cool to use.
