@@ -1,6 +1,6 @@
 Question:-
 
-![Question](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Try%20first/try%20first.PNG)
+![Question](cOdeSpeC\Yummy and the Chocolate Factory\yummy and the chocolate factory.png)
 
 First download the given [zip](https://drive.google.com/file/d/1467D9kGPJmmUrs3Riv_TbAtssyBUS-IU/view?usp=sharing)
 
