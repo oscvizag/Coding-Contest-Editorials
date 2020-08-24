@@ -2,11 +2,11 @@ Question:-
 
 ![Question](cOdeSpeC\Yummy and the Chocolate Factory\yummy and the chocolate factory.png)
 
-First download the given [zip](https://drive.google.com/file/d/1467D9kGPJmmUrs3Riv_TbAtssyBUS-IU/view?usp=sharing)
+First download the given [zip](https://github.com/oscvizag/Coding-Contest-Editorials/blob/master/cOdeSpeC/Yummy%20and%20the%20Chocolate%20Factory/yummy%20and%20the%20chocolate%20factory.png?raw=true)
 
 ## explanation
 
-Approach
+
 The idea is to traverse every array element and find the highest bars on left and right sides. Take the smaller of two heights. The difference between the smaller height and height of the current element is the amount of water that can be stored in this array element.
 Algorithm:
 Traverse the array from start to end.
@@ -14,6 +14,8 @@ For every element, traverse the array from start to that index and find the maxi
 The amount of water that will be stored in this column is min(a,b) – array[i], add this value to total amount of chocolate stored
 Print the total amount of chocolate stored.
 Implementation:
+
+```
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
@@ -49,3 +51,5 @@ cout<<su<<"\n";
 }
 return 0;
 }
+
+```
